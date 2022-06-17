@@ -245,7 +245,6 @@ a {
 ::-webkit-scrollbar-thumb {
     background-color: rgb(214 21 73 / 60%);
     transition: var(--main-transition);
-    border-radius: 40px;
 }
 ::-webkit-scrollbar-thumb:hover {
     background-color: var(--main-icon-color);
