@@ -240,14 +240,14 @@ a {
     width: 15px;
 }
 ::-webkit-scrollbar-track {
-    background-color: var(--main-section-color-alt);
+    background-color: black;
 }
 ::-webkit-scrollbar-thumb {
-    background-color: rgb(214 21 73 / 60%);
+    background-color: rgb(255 255 255 / 90%);
     transition: var(--main-transition);
 }
 ::-webkit-scrollbar-thumb:hover {
-    background-color: var(--main-icon-color);
+    background-color: white;
 }
 .container .fa-bars {
     position: fixed;
