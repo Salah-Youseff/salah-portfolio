@@ -265,7 +265,7 @@ a {
 /* End Global Rules */
 .container {
     background-color: var(--background-color-alt);
-    box-shadow: 0px 0px 100px 0 rgb(255 255 255 / 60%);
+    box-shadow: 0px 0px 100px 0 rgb(255 255 255 / 35%);
     overflow: hidden;
 }
 .portfolio {
