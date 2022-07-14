@@ -1152,6 +1152,9 @@ a {
 .container  footer h1 {
     font-size: 24px;
 }
+.container  footer h1 a u {
+    color: white;
+}
 @media (max-width:767px) {
     .container  footer {
         transform: translateY(0px);
