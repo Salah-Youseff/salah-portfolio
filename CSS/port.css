@@ -467,7 +467,7 @@ a {
     }
 }
 .container .home .social-email .social {
-    margin-left: 10px;
+    /*margin-left: 10px;*/
 }
 @media (max-width:767px) {
     .container .home .social-email .social {
@@ -480,8 +480,8 @@ a {
 .container .home .social-email .social a {
     position: relative;
     color: white;
-    margin-right: 30px;
-    padding: 10px;
+    margin-right: 5px;
+    padding: 15px;
 }
 @media (max-width:767px) {
     .container .home .social-email .social a {
@@ -1111,12 +1111,12 @@ a {
 }
 .container .contact .section-content .social {
     margin: 30px 0;
-    text-align: left;
+    text-align: center;
 }
 .container .contact .section-content .social a {
     position: relative;
     color: white;
-    margin-right: 30px;
+    margin-right: 10px;
     padding: 10px;
 }
 .container .contact .section-content .social a::after {
